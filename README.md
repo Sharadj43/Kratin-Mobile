@@ -17,3 +17,11 @@ class test :
 
 if __name__=="__main__":
     test.main([])
+
+
+
+
+
+ Explanation: 
+The above code is an example of the prescribed list, it is just a prototype of one of the feature that the application will contain. There can be various functionalities which can be added to it.
+For example, we can add the facility for nearby doctors and map features so that they can get all the important landmarks quickly. We can add biosensors for their health checking and etc.
